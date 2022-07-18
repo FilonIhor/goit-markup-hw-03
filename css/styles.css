@@ -143,7 +143,7 @@ button {
 /* ========== main ========== */
 .section {
   padding-top: 94px;
-  padding-bottom: 0;
+  padding-bottom: 94px;
 }
 
 /* hero */
@@ -229,6 +229,10 @@ button {
   clip: rect(0 0 0 0);
 }
 
+.section.second {
+  padding-bottom: 0;
+}
+
 .section-title.main {
   margin-bottom: 50px;
 
@@ -250,7 +254,6 @@ button {
 }
 
 .background {
-  padding-bottom: 94px;
   background-color: #f5f4fa;
 }
 
@@ -484,7 +487,6 @@ button {
 }
 
 .portfolio-contact {
-  padding: 32px 0;
   margin-left: auto;
 
   color: var(--secondary-text-color);
@@ -610,11 +612,6 @@ button {
   display: flex;
   flex-direction: column;
 }
-
-/* .container.portfolio-footer-nav {
-  padding-top: 60px;
-  padding-bottom: 60px;
-} */
 
 .logo-portfolio-footer {
   margin-bottom: 20px;
