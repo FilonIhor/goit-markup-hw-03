@@ -458,7 +458,7 @@ button {
 }
 
 .portfolio-nav .link {
-  padding: 32px 0;
+  /* padding: 32px 0; */
   display: block;
 
   color: var(--primary-text-color);
