@@ -434,8 +434,8 @@ button {
 }
 
 .logo-portfolio {
-  padding-top: 24px;
-  padding-bottom: 25px;
+  /* padding-top: 24px;
+  padding-bottom: 25px; */
   margin-right: 93px;
 
   color: var(--primary-text-color);
@@ -485,7 +485,7 @@ button {
 }
 
 .portfolio-contact .header {
-  padding: 32px 0;
+  /* padding: 32px 0; */
 }
 
 .portfolio-contact .item + .item {
