@@ -121,8 +121,11 @@ button {
   display: flex;
 }
 
-.contact {
+.contact .header-studio {
   padding: 32px 0;
+}
+
+.contact {
   margin-left: auto;
 
   color: var(--secondary-text-color);
